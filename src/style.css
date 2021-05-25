@@ -1,13 +1,18 @@
 /* styles go here */
+.fiel__box {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.fiel__box:last-child {
+  margin-bottom: 0;
+}
+
 .box {
   display: block;
-  margin: 10px;
+  padding-bottom: 10px;
 }
 
-.box1 {
-  margin: 0%;
-}
-
-.fiel__box {
-  margin: 20px;
+.box:last-child {
+  padding-bottom: 0;
 }
