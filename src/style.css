@@ -1,10 +1,10 @@
 /* styles go here */
-.fiel__box {
+.fieldset__box {
   display: block;
   margin-bottom: 20px;
 }
 
-.fiel__box:last-child {
+.fieldset__box:last-child {
   margin-bottom: 0;
 }
 
